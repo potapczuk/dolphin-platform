@@ -1,0 +1,7 @@
+com.canoo.dp.impl.platform.core
+com.canoo.dp.impl.platform.core.ansi
+com.canoo.platform.core
+com.canoo.platform.core.domain
+com.canoo.platform.core.functional
+com.canoo.platform.core.http
+com.canoo.platform.core.http.spi

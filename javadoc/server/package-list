@@ -1,0 +1,11 @@
+com.canoo.dp.impl.server.beans
+com.canoo.dp.impl.server.bootstrap
+com.canoo.dp.impl.server.bootstrap.modules
+com.canoo.dp.impl.server.client
+com.canoo.dp.impl.server.config
+com.canoo.dp.impl.server.mbean
+com.canoo.dp.impl.server.scanner
+com.canoo.dp.impl.server.servlet
+com.canoo.platform.server
+com.canoo.platform.server.client
+com.canoo.platform.server.spi

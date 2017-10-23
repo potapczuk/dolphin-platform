@@ -1,0 +1,8 @@
+com.canoo.dp.impl.platform.client
+com.canoo.dp.impl.platform.client.http
+com.canoo.dp.impl.platform.client.http.cookie
+com.canoo.dp.impl.platform.client.json
+com.canoo.dp.impl.platform.client.session
+com.canoo.platform.client
+com.canoo.platform.client.session
+com.canoo.platform.client.spi
